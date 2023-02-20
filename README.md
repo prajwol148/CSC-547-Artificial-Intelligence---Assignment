@@ -1,14 +1,11 @@
 # CSC 547 Artificial Intelligence - Assignment 1
-<br>This repository contains the first assignment for the CSC 547 Artificial Intelligence course at the University of South Dakota, offered in the Masters of Science in Computer Science program. The instructor of the course is Kruttika Sutrave.
-<br>
-<br>
-The assignment is implemented on Jupyter Notebook, a web-based interactive computational environment that allows for creating and sharing live code, visualizations, and narrative text. The assignment involves creating and manipulating data frames using the pandas library in Python, a powerful tool for data analysis and manipulation.
-<br>
-The objective of this assignment is to introduce the students to the basics of data frames, their manipulation and merging using pandas, which are essential skills for any data analysis or machine learning task. The assignment includes exercises on creating data frames from raw data, joining data frames along rows and columns, and merging data frames based on common keys.
-<br>
-The code for the assignment is provided in the form of a Jupyter Notebook file, which includes the problem statement, the code, and the output. The students are required to complete the missing parts of the code and submit the pdf version of your Jupyter notebook for grading.
-<br>
+<br>This repository contains all the assignments for the CSC 547 Artificial Intelligence course at the University of South Dakota, offered in the Masters of Science in Computer Science program. The instructor of the course is Kruttika Sutrave.
 <br>
 
-## Credits
-The assignment and the code examples are developed by the instructor of the course, Kruttika Sutrave.
+The objective of the assignments is to provide the students with hands-on experience in applying artificial intelligence techniques to real-world problems. The assignments are designed to be challenging and thought-provoking, requiring the students to think critically and creatively about the problems at hand. Each assignment includes a problem statement, the code, and the output. The assignments build on each other, with later assignments incorporating concepts and techniques from earlier ones.
+<br>
+By completing these assignments, the students will have gained a deep understanding of the fundamental principles and techniques of artificial intelligence, as well as the practical skills and tools needed to apply them to real-world problems.
+<br>
+<br>
+# Credits
+The assignments and the code examples are developed by the instructor of the course, Kruttika Sutrave. 
